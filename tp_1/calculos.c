@@ -50,7 +50,7 @@ int multiplicarEnteros(int a, int b){
 float dividirEnteros (int a, int b)
 {
 	float division;
-			division = (float)a/(float)b;
+			division = (float)a/b;
 	return division;
 }
 

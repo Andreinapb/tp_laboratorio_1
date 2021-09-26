@@ -1,1 +1,14 @@
-
+Hacer una calculadora. Para ello el programa iniciará y contará con un menú de opciones:
+1. Ingresar1eroperando(A=x)
+2. Ingresar2dooperando(B=y)
+3. Calculartodaslasoperaciones
+a) Calcular la suma (A+B)
+b) Calcular la resta (A-B)
+c) Calcularladivision(A/B)
+d) Calcular la multiplicacion (A*B) e) Calcular el factorial (A!)
+4. Informarresultados
+a) “El resultado de A+B es: r”
+b) “El resultado de A-B es: r”
+c) “ElresultadodeA/Bes:r”o“Noesposibledividirporcero” d) “El resultado de A*B es: r”
+e) “El factorial de A es: r1 y El factorial de B es: r2”
+5. Salir
